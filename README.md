@@ -1,1 +1,1 @@
-# Gobalstore
+# Globalstore
